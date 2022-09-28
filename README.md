@@ -1,2 +1,2 @@
-# TCC_UnB_Vinícius_Aguiar_Monteiro
-Repositório para armazenar os artefatos do TCC para disponibilizar ao público.
+# Aprenda Pensamento Computacional e Scratch
+Repositório para armazenar o material didático do curso para que quem quiser consiga aplica-lo em outros contextos.
